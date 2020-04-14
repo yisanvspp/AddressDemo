@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndexView">
+        <attr name="textDefaultColor" format="color"/>
+        <attr name="textChooseColor" format="color"/>
+        <attr name="textDefaultSize" format="dimension"/>
+        <attr name="textChooseSize" format="dimension"/>
+    </declare-styleable>
+
+</resources>
